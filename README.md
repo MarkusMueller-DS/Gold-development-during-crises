@@ -3,6 +3,6 @@ Visualization of the development of the gold price before and during major crash
 
 ![](Gold_price_development.png)
 
-![](Corona 2020.png)
+![](Corona_2020.png)
 
-![](Financial Crisis 2007.png)
+![](Financial_Crisis_2007.png)
