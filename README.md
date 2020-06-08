@@ -19,6 +19,16 @@ Gold is generally known as the safe haven for investors in such crises and is th
 
 ![streamlit](images/Screenshot_streamlit_plotly.png)
 
+### How to run web app
+run the following command in the terminal
+1. set working dict:
+`$ cd ~/Gold_development_during_crises`
+2. activate environment with the relevnat libaries:
+`$ conda activate base`
+3. run deploy_gold.py:
+`$ streamlit run deploy_gold.py`
+4. the website with the app will open automatically:
+
 
 ### Python Libraries
 - pandas
