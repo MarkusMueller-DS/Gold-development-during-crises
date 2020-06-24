@@ -34,7 +34,7 @@ run the following commands in the terminal
 - pandas
 - numpy
 - matplotlib
-- seavorn 
+- seaborn 
 - plotly
 - yahoofinancials
 - quandle
