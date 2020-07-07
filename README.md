@@ -23,11 +23,11 @@ Gold is generally known as the safe haven for investors in such crises and is th
 run the following commands in the terminal
 1. set working dict:
 `$ cd ~/Gold_development_during_crises`
-2. activate environment with the relevnat libaries:
+2. activate environment with the relevnat libaries (I use conda, so for conda it is):
 `$ conda activate base`
 3. run deploy_gold.py:
 `$ streamlit run deploy_gold.py`
-4. the website with the app will open automatically:
+4. the website with the app will open automatically
 
 
 ### Python Libraries
