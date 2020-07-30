@@ -1,4 +1,4 @@
-# Gold-development-during-major-S&P500-crashes
+# Gold-development-during-major-S&P500-crashes (WIP)
 ##### by Markus Müller
 Visualization of the development of the gold price before and during major crashes.
 
@@ -37,6 +37,11 @@ Gold is generally known as the safe haven for investors in such crises and is th
 - https://stackoverflow.com/questions/151199/how-to-calculate-number-of-days-between-two-given-dates
 - https://www.programiz.com/python-programming/nested-dictionary
 - https://stackoverflow.com/questions/18648626/for-loop-with-two-variables
+
+### To Do
+- finalize findings
+- make chart more readble (bigger fontsize for thr year)
+- make chart interactive with plotly 
 
 
 ## Outdated information
