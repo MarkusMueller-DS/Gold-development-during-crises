@@ -15,6 +15,32 @@ Gold is generally known as the safe haven for investors in such crises and is th
 
 ![gold_development](images/Gold_price_development_during_crashes.png)
 
+
+### Conslusions (WIP)
+- Only in two instances gold performed weaker than  the S&P 500 (early 1980s recession and Black Monday)
+- The highest gain was after the oil crisis in 1973 with a max gain of 284%
+- The biggest decrease in gold value during a crisis was -68% during the early 1980s recessions
+
+
+### Libaries
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- (Plotly)
+- (Streamlit)
+
+### Resources
+- https://www.quandl.com/data/LBMA-London-Bullion-Market-Association
+- https://finance.yahoo.com/quote/%5EGSPC/
+- https://stackoverflow.com/questions/35090498/how-to-calculate-percent-change-compared-to-the-beginning-value-using-pandas
+- https://stackoverflow.com/questions/151199/how-to-calculate-number-of-days-between-two-given-dates
+- https://www.programiz.com/python-programming/nested-dictionary
+- https://stackoverflow.com/questions/18648626/for-loop-with-two-variables
+
+
+## Outdated information
+
 ### Deloyed in a web app with streamlit and plotly (outdated visualization)
 
 ![streamlit](images/Screenshot_streamlit_plotly.png)
@@ -30,12 +56,4 @@ run the following commands in the terminal
 4. the website with the app will open automatically
 
 
-### Python Libraries
-- pandas
-- numpy
-- matplotlib
-- seaborn 
-- plotly
-- yahoofinancials
-- quandle
-- streamlit
+
