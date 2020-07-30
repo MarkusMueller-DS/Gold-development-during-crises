@@ -13,7 +13,7 @@ Gold is generally known as the safe haven for investors in such crises and is th
 
 ### Visualization with matplotlib and seaborn 
 
-![gold_development](images/Gold_price_development.png)
+![gold_development](images/Gold_price_development_during_crashes.png)
 
 ### Deloyed in a web app with streamlit and plotly
 
