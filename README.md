@@ -15,7 +15,7 @@ Gold is generally known as the safe haven for investors in such crises and is th
 
 ![gold_development](images/Gold_price_development_during_crashes.png)
 
-### Deloyed in a web app with streamlit and plotly
+### Deloyed in a web app with streamlit and plotly (outdated visualization)
 
 ![streamlit](images/Screenshot_streamlit_plotly.png)
 
