@@ -42,6 +42,7 @@ Gold is generally known as the safe haven for investors in such crises and is th
 - finalize findings
 - make chart more readble (bigger fontsize for thr year)
 - make chart interactive with plotly 
+- write a Medium article based on this analysis
 
 
 ## Outdated information
