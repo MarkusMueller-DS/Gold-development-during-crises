@@ -2,6 +2,8 @@
 ##### by Markus Müller
 Visualization of the development of the gold price before and during major crashes.
 
+<a href="https://markusmueller-ds.github.io/portfolio/gold.html">Link</a> to website with more informations.
+
 ### Motivation
 The inspiration for this analysis is this <a href='https://www.reddit.com/r/dataisbeautiful/comments/fjvtt5/oc_current_market_sell_off_compared_to_major_ones/'> reddit post</a>, where the current crash is compared to major ones in the past.
 
